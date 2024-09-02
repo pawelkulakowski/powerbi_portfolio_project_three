@@ -1,6 +1,12 @@
-# Portfolio Project Microsoft PowerBi - Shipment tracking
+# Portfolio Project Microsoft PowerBi - Improving OTIF through a Shipment Monitoring Dashboard
 
-How to increase OTIF? Focus your customer service people on shipments to better manage the process. The goal of this project is to make a shipment tracking dashboard together with basic metrics about OTIF, number of orders in the process and order delivery performance.
+In today's fast-paced business environment, On-Time In-Full (OTIF) performance is more critical than ever. It directly impacts customer satisfaction, brand reputation, and bottom-line results. To improve OTIF, focusing your customer service team on the tracking process is essential. This enables proactive management, reduces delays, and guarantees that customer expectations are constantly satisfied.
+
+Centralizing and streamlining this process is the aim of the shipment tracking dashboard. This dashboard offers a comprehensive picture of your logistics operations by incorporating critical information including the total number of orders in progress, on-time confirmations, average delivery time, and overall order delivery performance.
+
+A well-designed dashboard allows your team to monitor shipments in real-time, quickly identify potential delays, and take corrective actions before issues escalate. It also offers valuable insights into OTIF performance, highlighting areas that need improvement. With easy access to these metrics, your customer service team can communicate more effectively with customers, providing them with accurate updates and enhancing their overall experience.
+
+In conclusion, implementing a shipment tracking dashboard is not just a technical upgrade; it's a strategic move that can significantly boost your OTIF performance. By giving your team the tools they need to manage the process more effectively, you'll be better positioned to meet customer demands, improve efficiency, and ultimately, drive growth.
 
 View On-Time Order Confirmations
 
@@ -26,3 +32,6 @@ To better understand
 - number of orders per month with growth rate
 
 ## On-Time Order Confirmations
+
+
+TODO: on-time bar chart; x-axis make automatic
