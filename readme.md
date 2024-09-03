@@ -14,7 +14,13 @@ View On-Time Order Confirmations
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01b.JPG?raw=true)
 
+View Avg. Delivery Time
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true)
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02b.JPG?raw=true)
+
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02c.JPG?raw=true)
 
 The project is under development phase. Updates will be coming frequently.
 
