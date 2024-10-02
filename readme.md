@@ -2,6 +2,8 @@
 
 In today's fast-paced business environment, On-Time In-Full (OTIF) performance is more critical than ever. It directly impacts customer satisfaction, brand reputation, and bottom-line results. To improve OTIF, focusing your customer service team on the tracking process is essential. This enables proactive management, reduces delays, and guarantees that customer expectations are constantly satisfied.
 
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/promo.jpg?raw=true)
+
 Centralizing and streamlining this process is the aim of the shipment tracking dashboard. This dashboard offers a comprehensive picture of your logistics operations by incorporating critical information including the total number of orders in progress, on-time confirmations, average delivery time, and overall order delivery performance.
 
 A well-designed dashboard allows your team to monitor shipments in real-time, quickly identify potential delays, and take corrective actions before issues escalate. It also offers valuable insights into OTIF performance, highlighting areas that need improvement. With easy access to these metrics, your customer service team can communicate more effectively with customers, providing them with accurate updates and enhancing their overall experience.
